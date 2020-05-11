@@ -1,0 +1,15 @@
+D:\Projects\PhotoRandomizer\PhotoRandomizerv3\PhotoRandomizerv3\obj\Debug\PhotoRandomizerv3.csproj.GenerateResource.cache
+D:\Projects\PhotoRandomizer\PhotoRandomizerv3\PhotoRandomizerv3\obj\Debug\PhotoRandomizerv3.csproj.CoreCompileInputs.cache
+D:\Projects\PhotoRandomizer\PhotoRandomizerv3\PhotoRandomizerv3\obj\Debug\PhotoRandomizerv3.ImageRandomizer.resources
+D:\Projects\PhotoRandomizer\PhotoRandomizerv3\PhotoRandomizerv3\bin\Debug\PhotoRandomizer.exe.config
+D:\Projects\PhotoRandomizer\PhotoRandomizerv3\PhotoRandomizerv3\bin\Debug\PhotoRandomizer.exe.manifest
+D:\Projects\PhotoRandomizer\PhotoRandomizerv3\PhotoRandomizerv3\bin\Debug\PhotoRandomizer.application
+D:\Projects\PhotoRandomizer\PhotoRandomizerv3\PhotoRandomizerv3\bin\Debug\PhotoRandomizer.exe
+D:\Projects\PhotoRandomizer\PhotoRandomizerv3\PhotoRandomizerv3\bin\Debug\PhotoRandomizer.pdb
+D:\Projects\PhotoRandomizer\PhotoRandomizerv3\PhotoRandomizerv3\obj\Debug\PhotoRandomizerv3.csprojAssemblyReference.cache
+D:\Projects\PhotoRandomizer\PhotoRandomizerv3\PhotoRandomizerv3\obj\Debug\PhotoRandomizer.Properties.Resources.resources
+D:\Projects\PhotoRandomizer\PhotoRandomizerv3\PhotoRandomizerv3\obj\Debug\PhotoRandomizer.TrustInfo.xml
+D:\Projects\PhotoRandomizer\PhotoRandomizerv3\PhotoRandomizerv3\obj\Debug\PhotoRandomizer.exe.manifest
+D:\Projects\PhotoRandomizer\PhotoRandomizerv3\PhotoRandomizerv3\obj\Debug\PhotoRandomizer.application
+D:\Projects\PhotoRandomizer\PhotoRandomizerv3\PhotoRandomizerv3\obj\Debug\PhotoRandomizer.exe
+D:\Projects\PhotoRandomizer\PhotoRandomizerv3\PhotoRandomizerv3\obj\Debug\PhotoRandomizer.pdb
